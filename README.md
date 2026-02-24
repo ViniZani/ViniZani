@@ -1,7 +1,7 @@
 ## Hello, there!👋 My name is Vinicius and this is my reposiroty of Data science and Software Engineering💻
 
-- 🔭 I'm in my 2nd year of electrical engineering
-- 🌱 Studying Data Science and Machine Learning
+- ⚡⚙️ I'm in my 2nd year of electrical engineering
+- 🧠💻 Studying Data Science and Machine Learning
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
