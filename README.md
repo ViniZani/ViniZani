@@ -1,6 +1,7 @@
 ## Hello, there!👋 My name is Vinicius and this is my reposiroty of Data science and Software Engineering💻
 
 - ⚡⚙️ I'm in my 2nd year of electrical engineering
+- 💻👾 1/3 software engineer
 - 🧠💻 Studying Data Science and Machine Learning
 
   <div style="display: inline_block"><br>
